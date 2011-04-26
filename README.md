@@ -48,5 +48,6 @@ A jQuery plug-in to convert an HTML list of images into a side-scrolling, pausin
 Copyright (c) 2011 Marcus Campbell
 
 jquery.stepScroll is dual-licensed under the MIT and GPL Version 2 licenses:
+
 - http://www.opensource.org/licenses/mit-license.php
 - http://www.gnu.org/licenses/gpl.html
