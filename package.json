@@ -1,0 +1,34 @@
+{
+  "name": "stepscroll",
+  "version": "1.0",
+  "title": "jQuery.stepScroll",
+  "author": {
+    "name": "Marcus Campbell",
+    "url": "https://github.com/scronide"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    },
+    {
+      "type": "GPLv2",
+      "url": "http://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.2.1"
+  },
+  "description": "Convert an HTML list of images into a side-scrolling, pausing slideshow.",
+  "keywords": [
+    "animation",
+    "slideshow",
+    "images",
+    "media",
+  ],
+  "homepage": "https://github.com/scronide/jquery.stepScroll",
+  "files": [
+    "jquery.stepScroll.js",
+    "README.md"
+  ]
+}
