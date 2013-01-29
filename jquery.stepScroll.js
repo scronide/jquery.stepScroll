@@ -1,5 +1,5 @@
 /**
- * jQuery stepScroll 1.0
+ * jQuery stepScroll 1.0.0
  * Copyright (c) 2011 Marcus Campbell
  *
  * Dual-licensed under the MIT and GPL Version 2 licenses:
